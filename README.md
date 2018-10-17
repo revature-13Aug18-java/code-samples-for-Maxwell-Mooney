@@ -70,4 +70,5 @@ A full-stack application which allowed Revature employees to meet drivers or rid
 
 # GitHub Repositories
 Project 2: https://github.com/MaxEffect13/project2/tree/master
+
 Project 3: https://github.com/revaturelabs

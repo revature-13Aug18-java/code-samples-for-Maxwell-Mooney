@@ -1,4 +1,0 @@
-Maxwell
-MaxEffect13
-test
-600.0

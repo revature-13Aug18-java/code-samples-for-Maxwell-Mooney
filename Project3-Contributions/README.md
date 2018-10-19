@@ -18,4 +18,4 @@ Technology Stack:
 
 Project Role: Angular Developer, Team Lead
 
-Link to GitHub repository: https://github.com/revaturelabs
+Link to GitHub repository: https://github.com/revaturelabs/rideshare-client

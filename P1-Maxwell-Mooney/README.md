@@ -1,10 +1,5 @@
 # Reimbursement Service
-Project 1 was a full-stack reimbursement app.  It allowed two user roles of employee and manager, both could log in.
-It would check to ensure the log in credentials existed in the database and that they were correct so the user can log in.
-The employee would be able to update their profile information and submit new reimbursement requests.
-They could also view their current requests and their statuses.
-A manager can log in and view all their employees and create new ones as well. A manager could approve or deny requests and remove them once
-they were resolved. Reimbursements for specific employees could be viewed.
+The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
 
 Technology Stack:
 - Java

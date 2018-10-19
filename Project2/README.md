@@ -12,3 +12,5 @@ Technology Stack:
 - Bootstrap (my specific responsibility)
 
 Project Role: Angular Developer, Team Lead
+
+Link to GitHub Repository: https://github.com/MaxEffect13/project2

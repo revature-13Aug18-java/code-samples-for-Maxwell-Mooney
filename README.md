@@ -9,7 +9,7 @@ Technology Stack:
 Project Role: Back-End Developer, Database Management
 
 Project 0 Description:
-This was an application to simulate a majority of banking operations.  It allowed a user to withdraw, deposit, log in, log out, register a new account and transfer funds to another account.  There were checks and validation to ensure the user doesn't overdraw their account or that their log in info is correct.
+This was an application to simulate a majority of banking operations.
 
 
 # Project 1: Reimbursement Services

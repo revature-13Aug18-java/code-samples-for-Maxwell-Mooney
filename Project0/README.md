@@ -1,4 +1,4 @@
-#Console Line Bank Application
+# Console Line Bank Application
 
 Project 0 was a banking application with a majority of uses one would find with a bank.
 This application allows a user to withdraw, deposit, log in, log out, register a new account and transfer funds to another account.  
